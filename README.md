@@ -1,6 +1,8 @@
 # 12864_ST7567S
 based on info from https://aliexpress.ru/item/1005004617618178.html?sku_id=12000029849830576 and https://satelit-info.com/phpBB3/viewtopic.php?f=172&amp;t=3338
 
+![ceas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVxExRCT_rFN8Y6IQ2EsP5WmO5h2A1XxmOy9eaKpR5MpRxaSimWpDjDAMzS_jGr7QjA3Vbl4hLd0gDDM5GLOPBSKuGACkZrnp0l1VTqw35PPIMggGfdKd6pB2y90htCqp3f5DJEnrfZ5cRgiToiqUyrATsensY26pBVOTCTsWzqYuDALfINaj3MtvV7Qur/w200-h126/ceas1.jpg)
+
 actual article: https://nicuflorica.blogspot.com/2023/08/ceas-ntp-pe-afisaj-monocrom-de-22-cu.html
 
 previous article: https://nicuflorica.blogspot.com/2023/07/afisaj-monocrom-de-22-cu-rezolutie-de.html
