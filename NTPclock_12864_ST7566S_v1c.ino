@@ -4,7 +4,7 @@
  * v.1b - changed initialization of display
  * v.1c - changed for 1.3" OLED display SH1107 driver (64x128 i2c)
  * v.1c2 - set to 12-hour format
- * v.1d - changed fr 0.96"OLED display SSD1306 driver (64x128 i2c)
+ * return to 2.2" ST7567S
 */
 
 #include <ESP8266WiFi.h>
